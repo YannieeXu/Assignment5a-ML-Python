@@ -7,7 +7,7 @@ Tutorial: https://machinelearningmastery.com/machine-learning-in-python-step-by-
 Author: Jason Brownlee
 
 ## Contents
-\\n```
+```
 Assignment5a-ML-Python/
 +-- manual/
 |   +-- ML_python.ipynb  # Hand-built ML notebook
@@ -21,7 +21,7 @@ Assignment5a-ML-Python/
 +-- REFLECTION.md
 ```
 
-\\n## How to Run
+## How to Run
 conda env create -f manual/environment.yml
 conda activate ml-python
 jupyter lab
