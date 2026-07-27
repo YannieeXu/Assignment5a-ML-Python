@@ -1,0 +1,13 @@
+name: ml-python
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - seaborn
