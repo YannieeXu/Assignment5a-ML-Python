@@ -18,7 +18,6 @@ Assignment5a-ML-Python/
 |   +-- PROMPTS.md
 |   +-- README_AI.md
 +-- README.md
-+-- REFLECTION.md
 ```
 
 ## How to Run
